@@ -10,6 +10,26 @@ Features:
 -Archive/ Unarchive messages  
 -Reply button  
 
-[Demonstraion video](https://youtu.be/jFKbm8tRMvk)
+[Demonstration video](https://youtu.be/jFKbm8tRMvk)
 
-This application was built with Django.
+
+## Setup
+
+Clone repository
+
+```
+git clone https://github.com/whejy/cs50w-project3-mail.git
+cd mail
+```
+
+Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+Run server
+
+```
+python manage.py runserver
+```
